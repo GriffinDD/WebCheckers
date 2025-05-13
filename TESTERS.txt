@@ -1,0 +1,5 @@
+To start the server, from the powershell pointed at "/WebCheckers-11s4j", run the start.ps1 shell script,
+or type mvn compile exec:java.
+
+Point TWO SEPARATE BROWSERS to http:/localhost:4567 to start.
+
